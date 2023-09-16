@@ -1,2 +1,2 @@
-# microbiome-pitt-hackathon
-Pitt Challenge Hackathon - Team LensAI
+# Pitt Challenge Hackathon
+Team LensAI - Tom Bartie, Jenny Jin Jessie Jin, Simon Kioko
